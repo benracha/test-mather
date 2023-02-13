@@ -1,0 +1,23 @@
+.banner {
+    width: 100%;
+    height: 870px;
+    padding-top: 120px;
+    display: block;
+}
+
+.bg {
+    width: 100%;
+    height: 750px;
+    background: url(https://themather.asia/static/media/header4.e12b02a1845f636e52e4.png);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    opacity: 1;
+    background-position: center; 
+}
+ 
+.bg h1 {
+    font-size: 61.95px;
+}

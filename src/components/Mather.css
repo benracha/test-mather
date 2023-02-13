@@ -1,0 +1,59 @@
+.mather {
+    width: 100%;
+    height: 1305.41px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+.text-mather {
+    border-bottom: 5px solid #db4b1e;
+    letter-spacing: 5px;
+    width: 57%;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.text-mather h2 {
+    -webkit-text-fill-color: transparent;
+    background: linear-gradient(90deg, #141347 5%, #2e5799 46%, #db4b1e);
+    -webkit-background-clip: text;
+    font-size: 8vw !important;
+    font-weight: 900 !important;
+    margin: 0;
+
+}
+
+.slogan {
+    width: 100%;
+    height: auto;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 20px;
+}
+
+.slogan h3 {
+    font-size: 37.83px;
+    font-weight: 500;
+    color: rgb(33, 37, 41);
+}
+
+.detail-mather {
+    width: 100%;
+    height: 81.69px;
+    padding-left: 24px;
+    padding-right: 24px;
+    margin-bottom: 8px;
+}
+
+.detail-mather h5 {
+    font-size: 34.047px;
+    font-weight: 500;
+    color: rgb(33, 37, 41);
+}
+
+.vdo {
+    width: 100%;
+    height: 697.84px;
+    margin-top: 48px;
+}

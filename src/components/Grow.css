@@ -1,0 +1,125 @@
+.grow {
+    width: 100%;
+    height: auto;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: white;
+}
+
+.text-grow {
+    width: 100%;
+    height: 48.19px;
+    margin-bottom: 15px;
+    display: block;
+    text-align: center;
+}
+
+.text-grow h2 {
+    font-size: 26px;
+    font-weight: 700;
+}
+
+.hr {
+    width: 50px;
+    height: 0px;
+    border-top: 1px solid black;
+    margin-left: auto!important;
+    margin-right: auto!important;
+    opacity: 1!important;
+}
+
+.total-row {
+    width: 100%;
+    height: auto;
+    margin-top: 48px;
+}
+
+
+.text-col {
+    width: auto;
+    height: 100%;
+    padding-left: 16px;
+    padding-right: 16px;
+}
+
+.title-grow {
+    width: 348px;
+    height: 100.8px;
+    padding-top: 48px;
+    padding-bottom: 24px;
+    margin-bottom: 8px;
+}
+
+.title-grow h2 {
+    font-size: 24px;
+    font-weight: 500;
+    color: rgb(33, 37, 41);
+}
+
+.text-col p {
+    font-size: 16px;
+    font-weight: 400;
+    color: rgb(33, 37, 41);
+}
+
+.bg-effect {
+    width: auto;
+    height: 400px;
+    background: url(https://themather.asia/static/media/bgba1.a716a2989352abe29b7f.jpg);
+    background-size: cover;
+    position: relative;
+    isolation: isolate;
+    border-radius: 7px;
+    
+}
+
+.bg-effect::after {    
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.bg-impressive {
+    width: auto;
+    height: 400px;
+    background: url(https://themather.asia/static/media/bgba2.4d4cfa4b307ffe8d560f.jpg);
+    background-size: cover;
+    position: relative;
+    isolation: isolate;
+    border-radius: 7px;
+}
+
+.bg-impressive::after {    
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.bg-accuracy {
+    width: auto;
+    height: 400px;
+    background: url(https://themather.asia/static/media/bgba3.dfc2e67f6491f01d62ff.jpg);
+    background-size: cover;
+    position: relative;
+    isolation: isolate;
+    border-radius: 7px;
+}
+
+.bg-accuracy::after {    
+    content: "";
+    position: absolute;
+    z-index: -1;
+    inset: 0;
+    background-color: white;
+    opacity: 0.5;
+}
+
+.total-row .row .col-lg-4 {
+    padding: 0%;
+}

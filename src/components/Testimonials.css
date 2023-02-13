@@ -1,0 +1,74 @@
+.testimonials {
+    width: 100%;
+    height: 709.38px;
+}
+
+.total-testimonials {
+    width: 100%;
+    height: 200px;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background-color: rgb(108, 108, 108);
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.hrw {
+    width: 50px;
+    height: 0px;
+    border-top: 1px solid rgb(255, 255, 255);
+    margin-left: auto !important;
+    margin-right: auto !important;
+    opacity: 1 !important;
+}
+
+.carousel {
+    width: 100%;
+    height: 420px;
+    background-color: rgb(108, 108, 108);
+}
+
+.carousel .carousel-inner .carousel-item {
+    width: 100%;
+    height: 400px;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption {
+    color: rgb(255, 255, 255);
+    height: 400px;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption p {
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption img {
+    width: 70px;
+    height: 70px;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 100%;
+    object-fit: cover;
+}
+
+.img {
+    width: 100%;
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption h3 {
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.carousel .carousel-inner .carousel-item .carousel-caption span {
+    font-size: 12.8px;
+    font-weight: 400;
+}
+
+.carousel .carousel-indicators {
+    margin-bottom: 50px;
+}
+
+
